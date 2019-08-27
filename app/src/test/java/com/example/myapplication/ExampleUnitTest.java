@@ -1,4 +1,4 @@
-package com.example.fragment;
+package com.example.myapplication;
 
 import org.junit.Test;
 
